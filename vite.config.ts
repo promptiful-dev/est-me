@@ -7,5 +7,5 @@ export default defineConfig({
   // IMPORTANT: Change '/test-me/' to the name of your GitHub repository.
   // For example, if your repo is https://github.com/user/my-quiz-app,
   // set base: '/my-quiz-app/'
-  base: '/test-me/',
+  base: '/est-me/',
 })
